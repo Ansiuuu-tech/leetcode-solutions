@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -74,4 +75,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

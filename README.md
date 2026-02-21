@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Matrix
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->

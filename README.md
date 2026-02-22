@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -129,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->

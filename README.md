@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0696-count-binary-substrings](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |

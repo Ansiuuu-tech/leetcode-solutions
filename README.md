@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

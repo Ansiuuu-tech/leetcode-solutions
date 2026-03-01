@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->

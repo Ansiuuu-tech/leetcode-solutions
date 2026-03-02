@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |

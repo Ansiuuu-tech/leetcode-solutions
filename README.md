@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1980-find-unique-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1980-find-unique-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->

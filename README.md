@@ -1,4 +1,113 @@
+# LeetCode Solutions
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+---
+
+## 📖 Repository Overview
+
+This repository is a personal collection of LeetCode problem solutions organized for easy reference and interview preparation.
+
+### 🗂️ Structure
+
+Each problem lives in its own folder at the repository root, named with the pattern:
+
+```
+NNNN-problem-title-in-kebab-case/
+├── NNNN-problem-title-in-kebab-case.java   ← solution source file
+└── README.md                                ← full problem statement (HTML)
+```
+
+**Example:**
+```
+0001-two-sum/
+├── 0001-two-sum.java
+└── README.md
+
+0104-maximum-depth-of-binary-tree/
+├── 0104-maximum-depth-of-binary-tree.c
+└── README.md
+```
+
+The four-digit zero-padded number at the start of each folder name corresponds directly to the LeetCode problem ID, making it easy to sort and locate any problem.
+
+---
+
+### 💻 Languages Used
+
+| Language | Solutions | Notes |
+|----------|-----------|-------|
+| Java     | 100       | Primary language used throughout |
+| C        | 1         | `0104-maximum-depth-of-binary-tree` |
+
+All Java solutions follow the standard LeetCode submission style — a single `Solution` class with the required method, ready to paste directly into the LeetCode editor.
+
+---
+
+### 📊 Difficulty Breakdown
+
+| Difficulty | Count |
+|------------|-------|
+| 🟢 Easy    | 32    |
+| 🟡 Medium  | 25    |
+| 🔴 Hard    | 1     |
+| **Tracked total** | **58** |
+
+> Difficulty metadata is recorded in `stats.json` (maintained by LeetHub v2). Not all solution folders have a difficulty tag yet; the total number of solution folders may exceed the tracked count above.
+
+---
+
+### 🧩 Topics Covered
+
+Solutions span a wide range of algorithm and data-structure topics. The auto-generated index below groups every problem by topic. Key areas include:
+
+- **Arrays & Matrices** — sliding window, prefix sum, in-place manipulation
+- **Strings** — anagrams, palindromes, character replacement
+- **Binary Search** — rotated arrays, peak finding, guess game
+- **Two Pointers** — k-sum problems, duplicate removal, merge
+- **Dynamic Programming** — subarray problems, jump game, Kadane's algorithm
+- **Bit Manipulation** — reverse bits, counting set bits, binary strings
+- **Trees** — inorder traversal, depth calculation
+- **Linked Lists** — reversal
+- **Stack & Queue** — asteroid collision, recent calls, star removal
+- **Math** — prime counting, modular arithmetic, number theory
+
+---
+
+### 🎨 Code Style
+
+Solutions are written in a compact, interview-friendly style:
+- Single `Solution` class, no imports unless required by the problem
+- Short variable names optimized for brevity (`n`, `i`, `j`, `s`, `pre`, etc.)
+- No comments — the logic is intended to be self-evident from the algorithm
+- Emphasis on time/space efficiency
+
+**Example — Kadane's Algorithm (`0053-maximum-subarray`):**
+```java
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int ms = Integer.MIN_VALUE;
+        int s = 0;
+        for (int i = 0; i < nums.length; i++) {
+            s += nums[i];
+            if (s > ms) ms = s;
+            if (s < 0) s = 0;
+        }
+        return ms;
+    }
+}
+```
+
+---
+
+### 🔍 How to Navigate
+
+1. **By problem number** — browse folders sorted numerically (e.g., `0001-two-sum`).
+2. **By topic** — use the **LeetCode Topics** index below; each section lists all problems tagged with that topic.
+3. **By difficulty** — filter using the difficulty shown in each problem folder's `README.md`.
+
+---
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array

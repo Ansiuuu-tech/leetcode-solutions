@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2906-construct-product-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Rolling Hash
 |  |
 | ------- |

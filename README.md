@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Counting
 |  |
 | ------- |

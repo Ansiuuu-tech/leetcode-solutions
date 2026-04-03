@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0942-di-string-match](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0874-walking-robot-simulation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0942-di-string-match](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0874-walking-robot-simulation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1207-unique-number-of-occurrences](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0874-walking-robot-simulation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1929-concatenation-of-array) |

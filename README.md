@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0067-add-binary) |
+| [0260-single-number-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0868-binary-gap) |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2906-construct-product-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0274-h-index) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->

@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0274-h-index) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0396-rotate-function](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Brainteaser
 |  |

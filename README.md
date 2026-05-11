@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Stack

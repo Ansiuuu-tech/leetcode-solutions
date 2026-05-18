@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0131-palindrome-partitioning) |

@@ -17,7 +17,7 @@ class Solution {
     }
 
     public List<String> generateParenthesis(int n) {
-
+                int t=0;
         List<String> ans = new ArrayList<>();
 
         solve(ans, 0, 0, "", n);

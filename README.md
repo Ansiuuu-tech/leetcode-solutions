@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |

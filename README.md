@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1306-jump-game-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -321,11 +322,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |

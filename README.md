@@ -332,12 +332,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |

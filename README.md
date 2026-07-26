@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0877-stone-game) |

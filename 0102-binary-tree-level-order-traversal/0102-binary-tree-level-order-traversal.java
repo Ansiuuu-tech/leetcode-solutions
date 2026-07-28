@@ -28,18 +28,16 @@ class Solution {
             List<Integer> temp=new ArrayList<>();
 
             for(int i=0;i<s;i++)
-            {
-                TreeNode node=q.poll();
-                temp.add(node.val);
-
-                if(node.left!=null)
+            { 
+                if(q.peek().left!=null)
                 {
-                    q.add(node.left);
+                    q.add(q.peek().left);
                 }
-                if(node.right!=null)
+                if(q.peek().right!=null)
                 {
-                    q.add(node.right);
+                    q.add(q.peek().right);
                 }
+                temp.add(q.poll().val);
             }
                 res.add(temp);
             

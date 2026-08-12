@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Binary Tree
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Linked List

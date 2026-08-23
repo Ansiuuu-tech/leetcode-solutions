@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2390-removing-stars-from-a-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1927-sum-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1927-sum-game) |
 ## Union-Find
 |  |
 | ------- |

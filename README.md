@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0384-shuffle-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0384-shuffle-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0933-number-of-recent-calls](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0384-shuffle-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0398-random-pick-index) |
 ## Merge Sort
 |  |

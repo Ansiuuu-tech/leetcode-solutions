@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0427-construct-quad-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0427-construct-quad-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy

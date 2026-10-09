@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0274-h-index) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0330-patching-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0384-shuffle-an-array) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0330-patching-array) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |

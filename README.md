@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0763-partition-labels](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0537-complex-number-multiplication](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0696-count-binary-substrings](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0330-patching-array) |
+| [0763-partition-labels](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |

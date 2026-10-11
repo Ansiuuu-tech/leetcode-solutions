@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Segment Tree

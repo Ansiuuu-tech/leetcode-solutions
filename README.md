@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0994-rotting-oranges](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0733-flood-fill](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1861-rotating-the-box) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |

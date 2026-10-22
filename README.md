@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1641-count-sorted-vowel-strings](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1641-count-sorted-vowel-strings](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1927-sum-game) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0062-unique-paths) |
+| [1641-count-sorted-vowel-strings](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |

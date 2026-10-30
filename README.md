@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0338-counting-bits) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0427-construct-quad-tree) |

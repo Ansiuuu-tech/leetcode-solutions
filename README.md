@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0542-01-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0427-construct-quad-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+| [0542-01-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0542-01-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0733-flood-fill) |

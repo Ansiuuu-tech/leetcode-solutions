@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -763,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Interactive
 |  |

@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0066-plus-one) |

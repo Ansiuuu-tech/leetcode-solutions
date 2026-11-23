@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0384-shuffle-an-array](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0933-number-of-recent-calls](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/Ansiuuu-tech/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
